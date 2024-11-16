@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <title>FE</title>
+     </head>
+     <body>
+        <h1>HTML</h1>
+        <hr/>
+        <p>HTML is markup language which is used to create static webpages </p>
+        <a href="https://www.geeksforgeeks.org/html-tutorial/" target=_blank">know more</a>
+        <h1>CSS</h1>
+        <hr/>
+        <p>CSS is style sheet language which is used to create responsive webpages </p>
+        <a href="https://www.geeksforgeeks.org/css-tutorial/" target="_blank">know more</a>
+        <h1>Javascript</h1>
+        <hr/>
+        <p>Javascript is a programming language that enables dynamic, interactive behaviour on webpages, like animatins, form validation, and content updates. It works alongside HTML and CSS to create responsive, user-friendly web application</p>
+        <a href="https://www.geeksforgeeks.org/javascript/"target="_blank">know more</a>
+        <h1>Bootstrap</h1>
+        <hr/>
+        <p>Bootstrap is a popular CSS gramework that provides predesigned components and responsive grid layouts to quickly creare visually consistent, <mobile-friendly>web pages.</p>
+        <a href="https://www.w3schools.com/bootstrap/"target="_blank">know more</a>
+        <h1>NodeJs</h1>
+        <hr/>
+        <p>Node.js is a Javascript runtime that enables server-side development with an event-driven, non-blocking architecture</p>
+        <a href="https://nodejs.org/en" target="_blank">know more</a>
+        <h1>Git</h1>
+        <hr/>
+        <p>Git is a version control system, git helps you keep track of code changes, git is used to collaborate on code.</p>
+        <a href="https://www.w3schools.com/git/" target="_blank">know more</a>
+        <h1>GitHub</h1>
+        <hr/>
+        <p>Github is a web-based platform for version control and collaboration, allowing developers to store and manage code respositories using Git. IT enables easy collaboration, code sharing, and project management through features like pull requests and issue trackingg.</p>
+        <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">know more</a>
+     </body>
+</html>
